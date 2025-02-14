@@ -31,3 +31,9 @@ By working on these Java programs, I can master key OOP principles like inherita
 
 Assignment 12 - 10-02-2025
  gained a strong understanding of object-oriented programming (OOP) principles in Java. By working on real-world scenarios like employee management, e-commerce, and banking systems, I learned how to apply encapsulation to protect sensitive data, ensuring access is controlled through getter and setter methods. Through inheritance, I was able to reuse common logic in abstract classes while allowing subclasses to customize specific behaviors. Implementing polymorphism helped me process different object types dynamically, making my code more flexible and scalable. I also explored interfaces to define contracts for different functionalities, reinforcing the principle of composition over inheritance. Additionally, I practiced constructor chaining, access modifiers, and modular class design, all of which contribute to writing clean and maintainable code. This project gave me hands-on experience with OOP best practices and prepared me to tackle real-world software development challenges efficiently.
+
+ 
+ Assignment 14 - 13-02-2025 A practical approach to mastering linked lists in Java. The singly linked list manages student records, the doubly linked list handles movie data with bidirectional traversal, and the circular linked list enables efficient task scheduling. These implementations strengthen core data structure concepts and real-world problem-solving skills, making them a great foundation for advanced learning.
+ 
+
+Assignment 15 - 13-02-2025 understand how stacks, queues, and hash maps work in solving real-world problems efficiently. They learn when to use each structure, optimize operations, handle edge cases, and ensure thread safety. By implementing these concepts in Java, they improve problem-solving skills and coding efficiency while gaining practical experience with fundamental data structures.
