@@ -4,13 +4,13 @@ public static void main(String [] args){
 String path="students.dat";
 try(DataOutputStream dos=new DataOutputStream(new FileOutputStream(path))){
 dos.writeInt(101);
-dos.writeUTF("Krishna Agarwal");
+dos.writeUTF("Aditya Dixit");
 dos.writeDouble(3.85);
 dos.writeInt(102);
-dos.writeUTF("Pooja");
+dos.writeUTF("Piyush");
 dos.writeDouble(3.92);
 dos.writeInt(103);
-dos.writeUTF("Sania Sharma");
+dos.writeUTF("Sanjay");
 dos.writeDouble(3.76);
 System.out.println("Details saved successfully");
 }
