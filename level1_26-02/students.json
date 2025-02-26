@@ -1,0 +1,5 @@
+[
+  { "name": "Archi", "age": 24, "subjects": ["Math", "Physics"] },
+  { "name": "Mayank", "age": 28, "subjects": ["Biology", "Chemistry"] },
+  { "name": "Khushi", "age": 30, "subjects": ["History", "English"] }
+]
